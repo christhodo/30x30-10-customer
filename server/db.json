@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Jimmy Jones",
+      "description": "Jimmy Johns, Jimmy Dean, Snausages"
+    },
+    {
+      "id": "2bMlYTy",
+      "name": "James Doe",
+      "description": "Goes by Jimboy"
+    }
+  ]
+}
